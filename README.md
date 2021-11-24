@@ -1,1 +1,1 @@
-# changestream-resilience
+# Changestream resilience tests
